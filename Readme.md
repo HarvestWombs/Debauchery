@@ -47,12 +47,19 @@ This is the key component to the functionality of this plugin.
 Each function takes a variety of parameters but most become self explanatory.
 
 AddStat - Adds *Value to *StatID specified.
+
 SetStat - Sets *StatID to *Value.
+
 AddSkill - Allows you to put points into class skill
+
 Level - Character will level up to *Value
+
 Waypoint - Uses *Value Waypoint group
+
 ItemGroup - Uses *Value Item group
+
 QuestGroup - Uses *Value Quest group
+
 Templates - Create a character with *Name to get *value template group
 
 # DebauchedTemplate file Columns		
