@@ -133,7 +133,9 @@ if ItemQuality is set to 255, it will generate a random quality between 2 and 9.
 | eol          | End of Line                                                                            |
 
 Quest naming:
+
 a1q1 = Den of Evil
+
 a1q6 = Andariel and so on
 
 You can also specify whole acts as "a#all" or simply "all" for every quest completed.
@@ -156,40 +158,67 @@ ITEMQUALITY_TEMPERED = 9
 # Changelog 
 
 v1.0
+
 Nothing special, just realeasing
 
+
 v0.7b
+
 -DebauchedQuests.txt QuestID column has been changed to Quest and now accepts strings (See Readme for quest naming conventions)
 
+
 v0.6b:
+
 -DebauchedItems.txt: Item has been changed to work as CubeOutput field, meaning it can accept parameters such as "rin,uni" etc.
+
 Huge thanks to FireHawk and Szumigajowy for dealing with my ignorance while getting this to work.
 
-v0.5b:
+v0.5b
+:
+
 -Added DebauchedQuests.txt
+
 -Added new DebauchedCharacter function for QuestGroups
+
 -Added DebauchedTemplate column for QuestGroups
 
+
 v0.4b:
+
 -EnableTemplates changed back to Template because it makes more sense now that you can have more than one active at a time.
+
 --Still takes Value for Template->Group
 
+
 v0.3b:
+
 -Added ItemGroup function to DebauchedCharacter.txt
+
 --Value is ItemGroup to load
 
+
 v0.2b:
+
 -Templates changed to EnableTemplates, only one can be active at a time. Takes Name and Value for Template->Group
+
 -Added DebauchedSkills.txt
+
 -Added DebauchedWaypoints.txt
+
 -Added DebauchedItems.txt
 
 v0.1:
+
 Initial release
 
 # Credits
+
 Firehawk - For helping me immensely getting things started, as well as helping through out the entire development process.
+
 Necrolis - For moral support, code examples, code locations, advice, and help fixing things.
+
 Szumigajowy - For a lot of functions used here.
+
 Kingpin - For example code and advice.
+
 RicFaith - Inspiration for expanding his current CharStart plugin.
