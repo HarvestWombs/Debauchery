@@ -1,0 +1,4 @@
+HcIdx	Group	WaypointID	*Comment	AllDiffs?	eol
+1	1	255	All	1	0
+2	1	6	If All waypoints, skips next lines.	0	0
+3	1	7		0	0

@@ -1,0 +1,9 @@
+HcIdx	Group	Item	ItemLoc	ItemQuality	ItemLevel	ItemCount	eol
+0	1	cap	head	7		1	0
+1	1	qui	tors	6		1	0
+2	1	cm1		4		5	0
+3	1	cap		255		10	0
+4	1	x11		3		1	0
+5	1	gcv		3		10	0
+6	1	cm2		4		5	0
+7	2	Duriel's Shell				1	0

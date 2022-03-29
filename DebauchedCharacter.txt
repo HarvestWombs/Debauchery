@@ -1,0 +1,5 @@
+HcIDx	Function	Name	Class	StatID	SkillName	Value	eol
+1	Template	Test				1	0
+2	Template	Iron				2	0
+3	SetStat			gold		1000	0
+4	SetStat			maxmana		100	0

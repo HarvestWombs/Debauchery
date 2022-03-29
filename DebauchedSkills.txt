@@ -1,0 +1,15 @@
+HcIdx	Group	Skill	SkillLevel	eol
+1	1	Fire Bolt	10	0
+2	1	Fire Ball	5	0
+3	1	Warmth	1	0
+4	1	Charged Bolt	3	0
+5	1	Inferno	10	0
+6	2	Fire Bolt	1	0
+7	2	Fire Ball	20	0
+8	2	Warmth	3	0
+9	2	Meteor	10	0
+10	2	Fire Mastery	15	0
+11	2	Enchant	10	0
+12	2	Hydra	10	0
+13	2	Inferno	5	0
+14	2	Blaze	1	0
